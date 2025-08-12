@@ -1,7 +1,8 @@
 import csv
 import os
 
-INPUT_CSV = 'bom_input.csv'      # Replace with your actual input file or KiCad export
+INPUT_CSV = 'scripts/bom_input.csv'
+      # Replace with your actual input file or KiCad export
 OUTPUT_DIR = 'bom_output'
 OUTPUT_CSV = os.path.join(OUTPUT_DIR, 'bom_cleaned.csv')
 
