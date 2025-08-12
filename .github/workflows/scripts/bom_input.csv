@@ -1,0 +1,6 @@
+Part Number,Description,Quantity
+R1,Resistor 10kΩ,5
+C1,Capacitor 100nF,10
+U1,MCU ATmega328P,1
+R1,Resistor 10kΩ,3
+C2,Capacitor 1µF,4
